@@ -1,0 +1,28 @@
+.header {
+    color:white;
+    background: red;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+}
+table{
+    width: 100%;
+}
+th {
+    background: blue;
+}
+td {
+    background: rgb(221, 221, 236);    
+}
+
+.shadow {
+    background: rgba(127, 127, 221, 0.377);
+    height: 10px;
+    width: 100%;
+    opacity: 0.2;
+    padding: 0;
+    margin: 0;
+}
+footer {
+    float: right;
+}
