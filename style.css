@@ -11,6 +11,9 @@ table{
 th {
     background: blue;
 }
+tr{
+    vertical-align: initial;
+}
 td {
     background: rgb(221, 221, 236);    
 }
